@@ -1,10 +1,15 @@
 /* Add CSS Styling */
 .odd-number {
-    background-color: #ff0000;
+    background-color: #f14747;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
     font-size: 24px;
 }
 #first-unique {
     color: #0000ff;
     font-size: 36px;
+}
+#sec-unique{
+    background-color: #64f164;
+    font-size: 24px;
+    font-weight: bold;
 }
