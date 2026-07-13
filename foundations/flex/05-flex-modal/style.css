@@ -26,8 +26,6 @@ body {
   gap: 10px;
 }
 
-.sec-ctnr{}
-
 .head-sect{
   display: flex;
   justify-content: space-between;
